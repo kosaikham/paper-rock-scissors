@@ -2,6 +2,9 @@
 
 Try it at https://exp.host/@sailaokham/assigment
 
+<p align="center">
+<img src="https://i.imgur.com/GogjfZA.png" width="500" />
+</p>
 
 ## How to use
 
