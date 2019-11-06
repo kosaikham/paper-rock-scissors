@@ -1,4 +1,4 @@
-# Paper, Rock and Scissors Game
+# Paper, Rock and Scissors (Mobile)
 
 Try it at https://exp.host/@sailaokham/assigment
 
